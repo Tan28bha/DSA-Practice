@@ -8,7 +8,7 @@ public:
 
         vector<int> ans;
 
-        for(int x=mini;x<maxi;x++){
+        for(int x=mini;x<=maxi;x++){
             if(!st.count(x)){
                 ans.push_back(x);
             }
