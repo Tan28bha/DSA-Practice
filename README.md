@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0075-sort-colors](https://github.com/Tan28bha/DSA-Practice/tree/master/0075-sort-colors) |
 | [0713-subarray-product-less-than-k](https://github.com/Tan28bha/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
+| [3731-find-missing-elements](https://github.com/Tan28bha/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tan28bha/DSA-Practice/tree/master/0075-sort-colors) |
+| [3731-find-missing-elements](https://github.com/Tan28bha/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
 | ------- |
@@ -36,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Tan28bha/DSA-Practice/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Tan28bha/DSA-Practice/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
