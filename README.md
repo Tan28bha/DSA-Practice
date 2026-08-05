@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0018-4sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Tan28bha/DSA-Practice/tree/master/0075-sort-colors) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/Tan28bha/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [3731-find-missing-elements](https://github.com/Tan28bha/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0018-4sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Tan28bha/DSA-Practice/tree/master/0075-sort-colors) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Tan28bha/DSA-Practice/tree/master/0844-backspace-string-compare) |
 ## Sorting
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Tan28bha/DSA-Practice/tree/master/0075-sort-colors) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3731-find-missing-elements](https://github.com/Tan28bha/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## Quicksort
 |  |
@@ -53,9 +56,18 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Tan28bha/DSA-Practice/tree/master/0844-backspace-string-compare) |
 ## Simulation
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Tan28bha/DSA-Practice/tree/master/0844-backspace-string-compare) |
+## Greedy
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
