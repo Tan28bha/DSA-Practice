@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0018-4sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Tan28bha/DSA-Practice/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Tan28bha/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0844-backspace-string-compare](https://github.com/Tan28bha/DSA-Practice/tree/master/0844-backspace-string-compare) |
 ## Sorting
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Tan28bha/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [3731-find-missing-elements](https://github.com/Tan28bha/DSA-Practice/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Tan28bha/DSA-Practice/tree/master/0141-linked-list-cycle) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Tan28bha/DSA-Practice/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
