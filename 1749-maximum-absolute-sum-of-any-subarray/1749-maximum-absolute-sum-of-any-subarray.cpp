@@ -4,20 +4,21 @@ public:
 
         int maxEnding = 0;
         int minEnding = 0;
-        int ans = 0;
+
+        int maxSum = 0;
+        int minSum = 0;
 
         for (int x : nums) {
 
+            // Maximum subarray sum
             maxEnding = max(x, maxEnding + x);
-            minEnding = min(x, minEnding + x);
+            maxSum = max(maxSum, maxEnding);
 
-            ans = max({
-                ans,
-                maxEnding,
-                -minEnding
-            });
+            // Minimum subarray sum
+            minEnding = min(x, minEnding + x);
+            minSum = min(minSum, minEnding);
         }
 
-        return ans;
+        return max(maxSum, abs(minSum));
     }
 };
