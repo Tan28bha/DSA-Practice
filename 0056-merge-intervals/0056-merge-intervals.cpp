@@ -4,33 +4,22 @@ public:
 
         sort(intervals.begin(), intervals.end());
 
-        vector<vector<int>> res;
+        vector<vector<int>> ans;
 
-        int start1 = intervals[0][0];
-        int end1 = intervals[0][1];
+        for (auto& interval : intervals) {
 
-        int n = intervals.size();
-
-        for (int i = 1; i < n; i++) {
-
-            int start2 = intervals[i][0];
-            int end2 = intervals[i][1];
-
-            // Overlapping
-            if (end1 >= start2) {
-                end1 = max(end1, end2);
+            // No overlap
+            if (ans.empty() || ans.back()[1] < interval[0]) {
+                ans.push_back(interval);
             }
-            // Non-overlapping
+
+            // Overlap
             else {
-                res.push_back({start1, end1});
-                start1 = start2;
-                end1 = end2;
+                ans.back()[1] =
+                    max(ans.back()[1], interval[1]);
             }
         }
 
-        // Push the last interval
-        res.push_back({start1, end1});
-
-        return res;
+        return ans;
     }
 };
