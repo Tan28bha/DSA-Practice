@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Tan28bha/DSA-Practice/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3731-find-missing-elements](https://github.com/Tan28bha/DSA-Practice/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Tan28bha/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Tan28bha/DSA-Practice/tree/master/0202-happy-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tan28bha/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tan28bha/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Tan28bha/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
 | ------- |
