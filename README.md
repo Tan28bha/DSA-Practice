@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Tan28bha/DSA-Practice/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Tan28bha/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Tan28bha/DSA-Practice/tree/master/0075-sort-colors) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0018-4sum) |
+| [0031-next-permutation](https://github.com/Tan28bha/DSA-Practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Tan28bha/DSA-Practice/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Tan28bha/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tan28bha/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
