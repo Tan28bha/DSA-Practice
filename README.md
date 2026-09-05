@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Tan28bha/DSA-Practice/tree/master/0075-sort-colors) |
 | [0152-maximum-product-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tan28bha/DSA-Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/Tan28bha/DSA-Practice/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Tan28bha/DSA-Practice/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Tan28bha/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Tan28bha/DSA-Practice/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Tan28bha/DSA-Practice/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Tan28bha/DSA-Practice/tree/master/0169-majority-element) |
 | [0435-non-overlapping-intervals](https://github.com/Tan28bha/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [3731-find-missing-elements](https://github.com/Tan28bha/DSA-Practice/tree/master/3731-find-missing-elements) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0076-minimum-window-substring](https://github.com/Tan28bha/DSA-Practice/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Tan28bha/DSA-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tan28bha/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0169-majority-element](https://github.com/Tan28bha/DSA-Practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Tan28bha/DSA-Practice/tree/master/0202-happy-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tan28bha/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0457-circular-array-loop](https://github.com/Tan28bha/DSA-Practice/tree/master/0457-circular-array-loop) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Tan28bha/DSA-Practice/tree/master/0169-majority-element) |
 | [0327-count-of-range-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0327-count-of-range-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
@@ -239,4 +243,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0327-count-of-range-sum) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tan28bha/DSA-Practice/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Tan28bha/DSA-Practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
