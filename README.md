@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tan28bha/DSA-Practice/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tan28bha/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Tan28bha/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Tan28bha/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tan28bha/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tan28bha/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
