@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Tan28bha/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Tan28bha/DSA-Practice/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Tan28bha/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0424-longest-repeating-character-replacement](https://github.com/Tan28bha/DSA-Practice/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Tan28bha/DSA-Practice/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Tan28bha/DSA-Practice/tree/master/0844-backspace-string-compare) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0115-distinct-subsequences](https://github.com/Tan28bha/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tan28bha/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Tan28bha/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
