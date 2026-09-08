@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/Tan28bha/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Tan28bha/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/Tan28bha/DSA-Practice/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tan28bha/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Tan28bha/DSA-Practice/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Tan28bha/DSA-Practice/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/Tan28bha/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Tan28bha/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tan28bha/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Tan28bha/DSA-Practice/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Sliding Window
 |  |
 | ------- |
