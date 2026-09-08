@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Tan28bha/DSA-Practice/tree/master/0202-happy-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Tan28bha/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Tan28bha/DSA-Practice/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Tan28bha/DSA-Practice/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Tan28bha/DSA-Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
 |  |
