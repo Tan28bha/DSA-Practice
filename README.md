@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0327-count-of-range-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0327-count-of-range-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Tan28bha/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0457-circular-array-loop](https://github.com/Tan28bha/DSA-Practice/tree/master/0457-circular-array-loop) |
+| [0493-reverse-pairs](https://github.com/Tan28bha/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/Tan28bha/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tan28bha/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/Tan28bha/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0327-count-of-range-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Tan28bha/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0713-subarray-product-less-than-k](https://github.com/Tan28bha/DSA-Practice/tree/master/0713-subarray-product-less-than-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Tan28bha/DSA-Practice/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tan28bha/DSA-Practice/tree/master/1004-max-consecutive-ones-iii) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Tan28bha/DSA-Practice/tree/master/0169-majority-element) |
 | [0327-count-of-range-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Tan28bha/DSA-Practice/tree/master/0493-reverse-pairs) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 ## Queue
 |  |
@@ -246,22 +249,27 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Tan28bha/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Tan28bha/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Merge Sort
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Tan28bha/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Tan28bha/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
 | [0327-count-of-range-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0327-count-of-range-sum) |
+| [0493-reverse-pairs](https://github.com/Tan28bha/DSA-Practice/tree/master/0493-reverse-pairs) |
 ## Counting
 |  |
 | ------- |
