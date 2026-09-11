@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0435-non-overlapping-intervals](https://github.com/Tan28bha/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
 | [0457-circular-array-loop](https://github.com/Tan28bha/DSA-Practice/tree/master/0457-circular-array-loop) |
 | [0493-reverse-pairs](https://github.com/Tan28bha/DSA-Practice/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/Tan28bha/DSA-Practice/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tan28bha/DSA-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tan28bha/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/Tan28bha/DSA-Practice/tree/master/0435-non-overlapping-intervals) |
+| [0494-target-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0494-target-sum) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Tan28bha/DSA-Practice/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -294,4 +296,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tan28bha/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
