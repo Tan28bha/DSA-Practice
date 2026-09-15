@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0053-maximum-subarray) |
+| [0095-unique-binary-search-trees-ii](https://github.com/Tan28bha/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0115-distinct-subsequences](https://github.com/Tan28bha/DSA-Practice/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tan28bha/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Tan28bha/DSA-Practice/tree/master/0152-maximum-product-subarray) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Tan28bha/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tan28bha/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -299,10 +301,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Tan28bha/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Tan28bha/DSA-Practice/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Backtracking
 |  |
 | ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Tan28bha/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
@@ -312,4 +316,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Tan28bha/DSA-Practice/tree/master/0494-target-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/Tan28bha/DSA-Practice/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
